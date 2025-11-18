@@ -1,1 +1,7 @@
-export default function App(){return <div>MedIntelli Clínica</div>}
+export default function App() {
+  return (
+    <div style={{ padding: 20, fontSize: 24 }}>
+      MedIntelli Clínica — Funcionando ✔️
+    </div>
+  );
+}
